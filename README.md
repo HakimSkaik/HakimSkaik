@@ -22,6 +22,7 @@
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20Grocery%20Website-000)](https://github.com/Afifr2001/Frescomin-Website)
+[![](https://img.shields.io/badge/-🧬%20CUSEC%20-000)](https://github.com/cusec/2023)
 
 ### Games
 
