@@ -24,7 +24,7 @@
 [![](https://img.shields.io/badge/-🧬%20Career%20Connect-000)](https://github.com/FehamIsmail/-hiza_tech-soen341project2023-)
 [![](https://img.shields.io/badge/-🧬%20CUSEC%20-000)](https://github.com/cusec/2023)
 [![](https://img.shields.io/badge/-🧬%20Grocery%20Website-000)](https://github.com/Afifr2001/Frescomin-Website)
-[![](https://img.shields.io/badge/-🧬%20Drone%20Delivery-000)]((https://github.com/eljanvier2/343-GroupProject/tree/main))
+[![](https://img.shields.io/badge/-🧬%20Drone%20Delivery-000)](https://github.com/eljanvier2/343-GroupProject/tree/main)
 
 ### Games
 
