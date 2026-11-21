@@ -13,4 +13,3 @@
 [![](https://img.shields.io/badge/-Drone%20Delivery-000?style=flat-square)](https://github.com/eljanvier2/343-GroupProject/tree/main)
 [![](https://img.shields.io/badge/-Autonomous%20Car-000?style=flat-square)](https://github.com/HakimSkaik/Autonomous-Car)
 [![](https://img.shields.io/badge/-Wordle%20Solver-000?style=flat-square)](https://github.com/HakimSkaik/WordleSolver)
-[![](https://img.shields.io/badge/-Ponytail-000?style=flat-square)](https://github.com/dietrichgebert/ponytail)
